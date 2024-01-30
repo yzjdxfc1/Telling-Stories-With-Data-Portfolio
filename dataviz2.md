@@ -88,9 +88,9 @@ This graph only uses a subset of original data and tries answer a specific quest
 </script>
 
 ## Part IV: Summary
-Data source and data information available in introduction. 
-These two graphs focuses on two different purposes. 
-The heat map aims to help reader understand the overall debt condition for countries over time while the trend graph focuses on one specific country, USA, and tries to analyze its debt in the following 3 years. 
-Design wise, the heat map could be overwhelimg at the beginning as it contains a lot of information, but it organizes well by allocating contrast colors, blue and orange, in a spectrum to give user a high level sense of the debt. 
-The trend graph aims for an extremely simple and interactive experience. It grays other countries and only colored the ODEC average and the United States to draw attention from readers. Also, it use a gradient of color to display forecasted years in light color for better user understanding.
+Data source and data information available in introduction.   
+These two graphs focuses on two different purposes.   
+The heat map aims to help reader understand the overall debt condition for countries over time while the trend graph focuses on one specific country, USA, and tries to analyze its debt in the following 3 years.   
+Design wise, the heat map could be overwhelimg at the beginning as it contains a lot of information, but it organizes well by allocating contrast colors, blue and orange, in a spectrum to give user a high level sense of the debt.   
+The trend graph aims for an extremely simple and interactive experience. It grays other countries and only colored the ODEC average and the United States to draw attention from readers. Also, it use a gradient of color to display forecasted years in light color for better user understanding.  
 In addition, these two graph uses different data ranges. The heat map includes all data all the way back 1995, when data of many other countries are still missing, hence users will see white blocks in it. On the other hand, the trend graph only focus on data since 2007, a year right before the financial crisis, and reserve more for future years. 
