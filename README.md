@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](dataviz2.md) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) | [Demo](demo)
+| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](dataviz2.md) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) | [Demo](demo)
 
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU in Spring 2024.
