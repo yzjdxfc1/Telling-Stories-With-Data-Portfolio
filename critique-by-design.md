@@ -96,12 +96,12 @@ Question 1: conceptual or statistical? -> statistical.
 Question 2: exploratory or decalarative? -> exploratory(confirmatory to exploratory) 
 
 First, I renamed columns and adjusted data types for year, based on my thuoghts on refineing the table. 
-![image](https://github.com/yzjdxfc1/telling-stories-with-data-portfolio/assets/143653487/86ca2705-34e2-43d7-ad6b-e9fcec656323)
+![image](https://github.com/yzjdxfc1/telling-stories-with-data-portfolio/assets/143653487/86ca2705-34e2-43d7-ad6b-e9fcec656323)  
 
 Difficulties: It's complcated to make a radar graph in Tableau.  
 There is no ready-to-use solution to build a radar graph in Tableau.  
 I researched online, it needs me to modify the data and compute corresponding values on each axis based on trigonometry functions.
-![image](https://github.com/yzjdxfc1/telling-stories-with-data-portfolio/assets/143653487/e247c0ec-2c6e-4284-a0a8-fc7bdda682c1)
+![image](https://github.com/yzjdxfc1/telling-stories-with-data-portfolio/assets/143653487/e247c0ec-2c6e-4284-a0a8-fc7bdda682c1)  
 Reference: https://www.tableau.com/blog/use-radar-charts-compare-dimensions-over-several-metrics-41592  
 Considering that I have spent over 10 hours on this assignment. I decided to go back and make everything easier. 
 I removed classification between performance and communte, then added a average line for each car, which can be used as an equivalent of total score. 
