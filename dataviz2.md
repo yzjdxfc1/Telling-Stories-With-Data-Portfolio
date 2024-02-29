@@ -1,3 +1,5 @@
+| [home page](https://yzjdxfc1.github.io/telling-stories-with-data-portfolio) | [visualizing debt](dataviz2.md) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md)
+
 # Assignment 2: Visualizing Debt
 ## Data Source 
 “General Government - General Government Debt - OECD Data,” theOECD, n.d., https://data.oecd.org/gga/general-government-debt.htm.
