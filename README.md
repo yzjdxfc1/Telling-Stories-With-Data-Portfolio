@@ -23,16 +23,16 @@ There are a few broad topics I am interested:
 # Portfolio
 
 ## Assignment: Visualizing overnment Debt
-[Go to Assignment](dataviz2.md)
+Practicing Deb Visualization [Go to Assignment](dataviz2.md)
 <!-- For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. -->
 
-## Assignment 3&4: Critique by Design
-[Go to Assignment](critique-by-design.md)
+## Assignment 3 & 4: Critique by Design
+Crituque and Refine Doug Score [Go to Assignment](critique-by-design.md)
 <!-- For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.   -->
 
 ## Final project
-[Go to Final Project I](final-project-part-one.md)   
-[Go to Final Project II](final-project-part-two.md)   
-[Go to Final Project III](final-project-part-three.md)   
+Project Pitch [Go to Final Project I](final-project-part-one.md)   
+User Research and Draft [Go to Final Project II](final-project-part-two.md)   
+Stories Behind the Scene & Wrapup [Go to Final Project III](final-project-part-three.md)   
 
 ---
