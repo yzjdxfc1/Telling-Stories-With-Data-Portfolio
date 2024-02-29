@@ -43,7 +43,7 @@ I also checked Heinz college, there was only 1 record.
 ![image](https://github.com/yzjdxfc1/telling-stories-with-data-portfolio/assets/143653487/4ec1b00a-1bcf-42ff-b877-75cb72eb1c67)
 Another observation was that most of the job titles were Software Engineer, which was known for its high starting salary. 
 ![image](https://github.com/yzjdxfc1/telling-stories-with-data-portfolio/assets/143653487/770e0d9b-9bc6-453a-b9a9-a1cc34a1ae65)
-I didn't find a chance to use some fancy graphs using other tools such as flourish studio and data wrapper because simple graph types, lines & bars, could fultill my need well. I could introduce job distrution locations and do some thing like the following, but this information is unrelated to my topic - investment. 
+I didn't find a chance to use some fancy graphs using other tools such as flourish studio and data wrapper because simple graph types, lines & bars, could fultill my need well. I could introduce job distrution locations and do some thing like the following, but this information is unrelated to my topic - investment.   
 ![image](https://github.com/yzjdxfc1/telling-stories-with-data-portfolio/assets/143653487/4994b3b6-c5cd-43e5-a88e-4001d6238cc0)   
 But overall, it was a fun project to do and I got a lot of useful feedback to improve my design in the future.    
 Lastly, I found Shorthand really useful and planned to use it for my capstone project final report for the client.
