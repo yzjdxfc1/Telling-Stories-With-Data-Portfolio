@@ -24,9 +24,9 @@ The following picture gives a high level description of what type of graph will 
 |------|-----|-------------|
 |Porsche 911 History      |  https://www.porsche.com/stories/innovation/a-brief-history-of-the-porsche-911   | It contains car specs of past 911 models, such as time periods, weight, height, performance etc.     |
 |Doug Score      | https://www.dougdemuro.com/dougscore    | Car scores given by a famous car-review Youtuber; I will use this to show cost-value efficiency and overall rating of 911 compared to other exotic cars            |
-|Porsche 911 Models      |https://www.porsche.com/usa/models/911/911-models/     |    It contains all Porsche 911 models for sale in USA right now; manual data parsing is required to collect performance data       |
+|Porsche 911 Models      |https://www.porsche.com/usa/models/911/911-models/     |    It contains all Porsche 911 models for sale in USA right now; manual data parsing is required to collect performance data  |
 |Car Data | https://deepvisualmarketing.github.io/| It has car specs and sales data in the past 30 years |
-|Fuel Efficiency| https://www.fueleconomy.gov/feg/ws/index.shtml| It contains fuel economy data from the government; some metrics like average fuel consumption will be derived from here| 
+|Fuel Efficiency| https://www.fueleconomy.gov/feg/ws/index.shtml| It contains fuel economy data from the government; some metrics like average fuel consumption will be derived from here|
 
 ## Method and medium
 The following tools will be used:
